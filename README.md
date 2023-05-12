@@ -1,1 +1,1 @@
-# Real_Time_Face_Recognition
+# Realtime-Face-Recognition-using-KNN
